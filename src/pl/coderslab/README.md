@@ -1,0 +1,3 @@
+# Workshop2
+
+Some tasks for Java programming coursse. To be continued...
